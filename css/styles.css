@@ -1,0 +1,15 @@
+body{
+	text-align:justify;
+}
+.navbar-default{
+	background-color:rgb(245, 134, 50);
+}
+.navbar-default .navbar-nav>li>a{
+	color:white;
+}
+a{
+	color:rgb(245, 134, 50);
+}
+a:hover{
+	color:rgb(245, 134, 50);
+}
